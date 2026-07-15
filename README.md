@@ -1,23 +1,22 @@
-# Weather Forecasting App 🌤️
+# Weather Forecasting App
 
-## Project Overview
-Weather Forecasting App is a Python-based application that provides real-time weather information for any city using a Weather API. The application fetches weather data from the API and displays details such as temperature, humidity, weather condition, and wind speed.
-
-This project demonstrates the use of Python programming, API integration, JSON data handling, and error handling.
-
-## Features
-- 🌍 Search weather information by city name
-- 🌡️ Displays current temperature
-- 💧 Shows humidity level
-- ☁️ Provides weather description
-- 🌬️ Displays wind speed
-- 🔗 Uses real-time Weather API data
-- ⚠️ Handles invalid city names and API errors
+## Project Description
+Weather Forecasting App is a Python-based application that provides real-time weather information using an API.
 
 ## Technologies Used
-- Python 3.12.4
+- Python 3.x
+- OpenWeatherMap API
 - Requests Library
-- Weather API (OpenWeatherMap API)
-- JSON
 
-## Project Structure
+## Features
+- Search weather by city name
+- Displays temperature
+- Shows humidity
+- Shows weather condition
+- Displays wind speed
+
+## Installation
+
+1. Install Python 3.x
+
+2. Install required library:
